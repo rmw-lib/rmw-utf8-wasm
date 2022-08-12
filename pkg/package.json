@@ -1,6 +1,6 @@
 {
   "name": "@rmw/utf8",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "_.js",
   "license": "AGPL",
   "repository": "https://github.com/rmw-lib/rmw-utf8-wasm",
